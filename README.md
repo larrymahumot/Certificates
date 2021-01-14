@@ -1,9 +1,9 @@
-<p id="downloads" align="center"><h1 align="center">CERTIFICATES</h1>
+<h1 align="center">CERTIFICATES</h1>
+<p id="downloads" align="center">	
 	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/IBM_logo_in.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/cisco_corporate_logo_blue2.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/feature-aws.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/new-microsoft-logo-square-large.jpg" height="40px"/>
-	
 </p>
 
 
