@@ -1,11 +1,11 @@
-<h1 align="center">CERTIFICATES</h1>
+<h1 align="center">MY CERTIFICATES</h1>
 <p id="downloads" align="center">	
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/IBM.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Cisco.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Aws.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Microsoft.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Udemy.png" height="40px"/>
-	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Coursera.jpg" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Coursera.jpg"  Width="60px" height="40px"/>
 </p>
 
 
