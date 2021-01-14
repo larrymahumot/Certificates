@@ -14,15 +14,15 @@
 
 
 [//]: #ImageLinks
-[01]: https://github.com/larrymahumot/Certificates/Introduction%20to%20Cybersecurity%20Certificate.jpg
-[02]: https://github.com/larrymahumot/Certificates/NDG%20Linux%20Unhatched%20Certificate.jpg
-[03]: https://github.com/larrymahumot/Certificates/NDG%20Linux%20Essentials%20Certificate.jpg
+[01]: https://github.com/larrymahumot/Certificates/Certificates/Introduction%20to%20Cybersecurity%20Certificate.jpg
+[02]: https://github.com/larrymahumot/Certificates/Certificates/NDG%20Linux%20Unhatched%20Certificate.jpg
+[03]: https://github.com/larrymahumot/Certificates/Certificates/NDG%20Linux%20Essentials%20Certificate.jpg
 [04]: https://github.com/larrymahumot/Certificates/viewcert/Azure%20Administrator.jpg
-[05]: https://github.com/larrymahumot/Certificates/Certificate%20Of%20Completion_CCNP%20Troubleshooting%20300135%20Cert%20Prep.jpg
-[06]: https://github.com/larrymahumot/Certificates/Certificate%20Of%20Completion_Cisco%20CCNA%20200301%20Cert%20Prep%20Network%20Fundamentals%20and%20Access.jpg
-[07]: https://github.com/larrymahumot/Certificates/Certificate%20Of%20Completion_CompTIA%20Security%20SY0501%20Cert%20Prep%201%20Threats%20Attacks%20and%20Vulnerabilities.jpg
-[08]: https://github.com/larrymahumot/Certificates/Certificate%20Of%20Completion_Networking%20Foundations%20Networking%20Basics%202015.jpg
-[09]: https://github.com/larrymahumot/Certificates/Certificate%20Of%20Completion_Networking%20Foundations%20Networking%20Basics%202015.jpg
+[05]: https://github.com/larrymahumot/Certificates/Certificates/Certificate%20Of%20Completion_CCNP%20Troubleshooting%20300135%20Cert%20Prep.jpg
+[06]: https://github.com/larrymahumot/Certificates/Certificates/Certificate%20Of%20Completion_Cisco%20CCNA%20200301%20Cert%20Prep%20Network%20Fundamentals%20and%20Access.jpg
+[07]: https://github.com/larrymahumot/Certificates/Certificates/Certificate%20Of%20Completion_CompTIA%20Security%20SY0501%20Cert%20Prep%201%20Threats%20Attacks%20and%20Vulnerabilities.jpg
+[08]: https://github.com/larrymahumot/Certificates/Certificates/Certificate%20Of%20Completion_Networking%20Foundations%20Networking%20Basics%202015.jpg
+[09]: https://github.com/larrymahumot/Certificates/Certificates/Certificate%20Of%20Completion_Networking%20Foundations%20Networking%20Basics%202015.jpg
 
 
 
