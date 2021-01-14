@@ -15,7 +15,7 @@
 
 [//]: #ImageLinks
 [01]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Introduction%20to%20Cybersecurity%20Certificate.jpg
-[02]: hhttps://github.com/larrymahumot/Certificates/blob/main/Certificates/NDG%20Linux%20Unhatched%20Certificate.jpg
+[02]: https://github.com/larrymahumot/Certificates/blob/main/Certificates//NDG%20Linux%20Unhatched%20Certificate.jpg
 [03]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/NDG%20Linux%20Essentials%20Certificate.jpg
 [04]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Azure%20Administrator.jpg
 [05]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_CCNP%20Troubleshooting%20300135%20Cert%20Prep.jpg
