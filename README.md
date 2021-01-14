@@ -16,9 +16,9 @@
 | --- | --- | --- |
 | ![cert_3][04] | ![cert_4][05] | ![cert_5][06] |
 | ![cert_6][07] | ![cert_7][08] | ![cert_8][09] |
-| ![cert_6][010] |![cert_7][011] |![cert_8][012] |
-| ![cert_6][013] |![cert_7][014] |![cert_8][015] |
-| ![cert_6][016] |![cert_7][017] |![cert_8][018] |
+| ![cert_6][10] | ![cert_7][11] | ![cert_8][12] |
+| ![cert_6][13] | ![cert_7][14] | ![cert_8][15] |
+| ![cert_6][16] | ![cert_7][17] | ![cert_8][18] |
 
 
 [//]: #ImageLinks
@@ -31,15 +31,15 @@
 [07]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_CompTIA%20Security%20SY0501%20Cert%20Prep%201%20Threats%20Attacks%20and%20Vulnerabilities.jpg
 [08]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_Cisco%20CCNA%20200301%20Cert%20Prep%20Network%20Fundamentals%20and%20Access.jpg
 [09]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_Networking%20Foundations%20Networking%20Basics%202015.jpg
-[010]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/NDG%20Linux%20Essentials%20Certificate.jpg
-[011]: https://github.com/larrymahumot/Certificates/blob/main/Certificates//NDG%20Linux%20Unhatched%20Certificate.jpg
-[012]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Introduction%20to%20Cybersecurity%20Certificate.jpg
-[013]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_CCNP%20Troubleshooting%20300135%20Cert%20Prep.jpg
-[014]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Azure%20Administrator.jpg
-[015]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Addressing%20Security%20Risk.jpg
-[016]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Building%20Serverless%20Applications.jpg
-[017]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Going%20Cloud%20Native.jpg
-[018]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Migrating%20to%20the%20Cloud.jpg
+[10]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/NDG%20Linux%20Essentials%20Certificate.jpg
+[11]: https://github.com/larrymahumot/Certificates/blob/main/Certificates//NDG%20Linux%20Unhatched%20Certificate.jpg
+[12]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Introduction%20to%20Cybersecurity%20Certificate.jpg
+[13]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_CCNP%20Troubleshooting%20300135%20Cert%20Prep.jpg
+[14]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Azure%20Administrator.jpg
+[15]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Addressing%20Security%20Risk.jpg
+[16]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Building%20Serverless%20Applications.jpg
+[17]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Going%20Cloud%20Native.jpg
+[18]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Migrating%20to%20the%20Cloud.jpg
 
 
 
