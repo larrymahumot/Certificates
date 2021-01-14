@@ -5,7 +5,7 @@
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Aws.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Microsoft.jpg" height="40px"/>
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Udemy.png" height="40px"/>
-	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Coursera.jpg"  Width="60px" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Coursera.jpg"  Width="50px" height="40px"/>
 </p>
 
 
