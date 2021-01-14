@@ -1,10 +1,15 @@
-<h1 align="center">CERTIFICATES</h1>
+<h1 align="center">MY CERTIFICATES</h1>
 <p id="downloads" align="center">	
-	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/IBM_logo_in.jpg" height="40px"/>
-	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/cisco_corporate_logo_blue2.jpg" height="40px"/>
-	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/feature-aws.jpg" height="40px"/>
-	<img src="https://github.com/larrymahumot/ishall21/blob/main/Certificates/logo/new-microsoft-logo-square-large.jpg" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/IBM.jpg" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Cisco.jpg" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Aws.jpg" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Microsoft.jpg" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Udemy.png" height="40px"/>
+	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Coursera.jpg"  Width="50px" height="40px"/>
 </p>
+
+<p align="Center"> This repository has been created as an archive to collect all certifications obtained over my education as Aws Cloud, Google Cloud, Data Engineer and Networking, Programming with MOOC through Coursera, Udemy and the Top University in the World. </p>
+
 
 
 | ![cert_1][01] | ![cert_2][02] | ![cert_3][03] |
