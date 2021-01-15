@@ -27,5 +27,25 @@
 [03]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Cloud%20Architecture%20with%20Google%20Cloud.jpg
 
 
+[04]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Architecting%20with%20Google%20Compute%20Engine.jpg
+[05]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Google%20IT%20Automation%20with%20Python.jpg
+[06]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals.jpg
+
+[07]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_CompTIA%20Security%20SY0501%20Cert%20Prep%201%20Threats%20Attacks%20and%20Vulnerabilities.jpg
+[08]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_Cisco%20CCNA%20200301%20Cert%20Prep%20Network%20Fundamentals%20and%20Access.jpg
+[09]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_Networking%20Foundations%20Networking%20Basics%202015.jpg
+
+[10]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/NDG%20Linux%20Essentials%20Certificate.jpg
+[11]: https://github.com/larrymahumot/Certificates/blob/main/Certificates//NDG%20Linux%20Unhatched%20Certificate.jpg
+[12]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Introduction%20to%20Cybersecurity%20Certificate.jpg
+
+[13]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Certificate%20Of%20Completion_CCNP%20Troubleshooting%20300135%20Cert%20Prep.jpg
+[14]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Azure%20Administrator.jpg
+[15]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Addressing%20Security%20Risk.jpg
+
+[16]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Building%20Serverless%20Applications.jpg
+[17]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Going%20Cloud%20Native.jpg
+[18]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals%20Migrating%20to%20the%20Cloud.jpg
+
 
 
