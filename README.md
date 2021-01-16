@@ -18,11 +18,10 @@
 
 
 [//]: #ImageLinks
+
 [01]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Google%20IT%20Support.jpg
 [02]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Cloud%20Engineering%20with%20Google%20Cloud.jpg
 [03]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Cloud%20Architecture%20with%20Google%20Cloud.jpg
-
-
 [04]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Architecting%20with%20Google%20Compute%20Engine.jpg
 [05]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/Google%20IT%20Automation%20with%20Python.jpg
 [06]: https://github.com/larrymahumot/Certificates/blob/main/Certificates/AWS%20Fundamentals.jpg
