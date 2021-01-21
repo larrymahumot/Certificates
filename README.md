@@ -8,8 +8,7 @@
 	<img src="https://github.com/larrymahumot/Certificates/blob/main/Logo/Coursera.jpg"  Width="50px" height="40px"/>
 </p>
 
-<p align="Center"> This repository has been created as an archive to collect all certifications obtained over my education as Aws Cloud, Google Cloud, Data Engineer and Networking, Programming with MOOC through Coursera, Udemy and the Top University in the World. </p>
-
+<p align="Center">My All Certifications obtained over my education as Aws Cloud, Google Cloud, Data Engineer and Networking, Programming with MOOC through Coursera, Udemy, Microsoft, IBM, AWS, LinkeIN and the Top University in the World. </p>
 
 
 | ![cert_1][01] | ![cert_2][02] | ![cert_3][03] |
